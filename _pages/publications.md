@@ -8,6 +8,7 @@ author_profile: true
 ### PEER REVIEWED
 
 Luo, A., Sydnor, V.J., Pines, A., Larsen, B., Alexander-Bloch, A.F., Cieslak, M., Covitz, S., Chen, A., Esper, N.B., Feczko, E., Franco, A.R., Gur, R.E., Gur, R.C., Houghton, A., Hu, F., Keller, A.S., Kiar, G., Mehta, K., Salum, G.A., Tapera, T., Xu, T., Zhao, C., Fair, D.A., Salo, T., Shinohara, R.T., Milham, M.P., Satterthwaite, T.D. Functional Connectivity Development along the Sensorimotor-Association Axis Enhances the Cortical Hierarchy. Nature Communications: in press
+
 Radhakrishnan, H., Zhao, C., Sydnor, V.J., Baller, E.B., Cook, P.A., Fair, D., Biesbrecht, B., Larsen, B., Murtha, K., Roalf, D.R., Rush-Goebel, S., Shinohara, R., Shou, H., Tisdall, M.D., Vettel, J., Grafton, S., Cieslak, M., Satterthwaite, T. A practical evaluation of measures derived from compressed spectrum imaging. Human Brain Mapping, 2024. 45:e26580. https://doi.org/10.1002/hbm.26580
 
 Keller, A.S., Pines, A.R., Shanmugan, S., Sydnor, V.J., Cui, Z., Bertolero, M.A., Barzilay, R., Alexander-Bloch, A., Byington, N., Chen, A.A., Conan, G.M., Davatzikos, C., Feczko, E., Hendrickson, T.J., Houghton, A., Larsen, B., Li, H., Miranda-Dominguez, O., Roalf, D.R., Perrone, A., Shetty, A., Shinohara, R.T., Fan, Y., Fair, D.A., Satterthwaite, T.D. Personalized functional brain network topography is associated with individual differences in youth cognition. Nature Communications, 2023; 14:8411. https://doi.org/10.1038/s41467-023-44087-0
@@ -87,4 +88,3 @@ Zhou, D., Kim, J.Z., Pines, A.R., Sydnor, V.J., Roalf, D.R., Detre, J.A., Gur, R
 
 Vogel, J.W., Alexander-Bloch, A., Wagstyl, K., Bertolero, M., Markello, R., Pines, A., Sydnor, V.J., Diaz-Papkovich, A., Hansen, J., Evans, A.C., Bernhardt, B., Misic, B., Satterthwaite, T.D., Seidlitz, J. Conserved whole-brain spatiomolecular gradients shape adult brain functional organization. bioRxiv. doi.org/10.1101/2022.09.18.508425
 
-![image](https://github.com/valeriejill/valerie-jill-sydnor.github.io/assets/46603185/34742f72-f28f-4ad8-bfc0-805640ff784e)
