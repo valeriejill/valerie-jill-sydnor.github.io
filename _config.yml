@@ -21,13 +21,10 @@ repository               : "valeriejill/valerie-jill-sydnor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "github_photo.jpeg"
   name             : "Valerie Jill Sydnor"
   pronouns         : "she/her" 
-  bio              : > 
-  Postdoctoral Scholar
-  Laboratory of Neurocognitive Development
-  T32 for Training in Transformative Discovery in Psychiatry
+  bio              : "Postdoctoral Scholar\nLaboratory of Neurocognitive Development\nT32 for Training in Transformative Discovery in Psychiatry"
   location         : "Earth"
   employer         : "Current: University of Pittsburgh Medical School, Previous: "
   uri              : # URL
@@ -50,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
