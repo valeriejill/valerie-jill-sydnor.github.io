@@ -21,7 +21,7 @@ repository               : "valeriejill/valerie-jill-sydnor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "github_photo.jpeg"
+  avatar           : github_photo.jpeg
   name             : "Valerie Jill Sydnor"
   pronouns         : "she/her" 
   bio              : "Postdoctoral Scholar\nLaboratory of Neurocognitive Development\nT32 for Training in Transformative Discovery in Psychiatry"
