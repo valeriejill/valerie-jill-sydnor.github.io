@@ -24,7 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Valerie Jill Sydnor"
   pronouns         : "she/her" 
-  bio              : "Postdoctoral Scholar, Laboratory of Neurocognitive Development, T32 for Training in Transformative Discovery in Psychiatry"
+  bio              : > 
+  Postdoctoral Scholar
+  Laboratory of Neurocognitive Development
+  T32 for Training in Transformative Discovery in Psychiatry
   location         : "Earth"
   employer         : "Current: University of Pittsburgh Medical School, Previous: "
   uri              : # URL
@@ -42,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "valeriejill"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
