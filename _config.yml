@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Valerie Jill Sydnor Academic Website"
+title                    : "Valerie Jill Sydnor"
 title_separator          : "-"
 name                     : &name "Valerie J Sydnor"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : github_photo.jpeg
   name             : "Valerie Jill Sydnor"
   pronouns         : "she/her" 
-  bio              : "Postdoctoral Scholar\nLaboratory of Neurocognitive Development\nT32 for Training in Transformative Discovery in Psychiatry"
+  bio              : "Postdoctoral Scholar, LNCD"
   location         : "Earth"
-  employer         : "Current: University of Pittsburgh Medical School, Previous: "
+  employer         : "University of Pittsburgh Medical School"
   uri              : # URL
   email            : "sydnorvj@upmc.edu" 
 
@@ -89,7 +89,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
